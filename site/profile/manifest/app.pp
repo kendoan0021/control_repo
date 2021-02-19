@@ -1,1 +1,1 @@
-class profile::ap {}
+class profile::app {}
